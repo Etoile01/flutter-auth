@@ -1,0 +1,43 @@
+name: tp
+description: "A new Flutter project."
+publish_to: 'none' # Empêche la publication sur pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: "^3.9.0"  # Contrainte de version SDK Dart
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Cupertino Icons
+  cupertino_icons: ^1.0.8
+
+  # Firebase dependencies
+  firebase_core: any
+  firebase_auth: ^6.1.2
+
+  # Social authentication
+  google_sign_in: ^6.1.6
+  flutter_facebook_auth: any
+
+  # Navigation
+  go_router: any
+
+  # Deep linking
+  app_links: ^6.3.2
+
+  # Fonts
+  google_fonts: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+ 
