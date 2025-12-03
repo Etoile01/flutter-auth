@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419833750506",
+    "project_id": "luthomoibele",
+    "storage_bucket": "luthomoibele.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419833750506:android:dc51983af1ed5e88c84893",
+        "android_client_info": {
+          "package_name": "com.example.tp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419833750506-rpa4uid1pnfp4a10m4lcmrghfeel7h5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdWr3lZj_yLNVpiZDdZcy-Mhjh-KBfcnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419833750506-rpa4uid1pnfp4a10m4lcmrghfeel7h5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
